@@ -14,7 +14,17 @@ The goal of this project is to develop a reliable model capable of distinguishin
 **Visualization Tools:** Matplotlib, Seaborn                                                                                                
 **Additional Libraries:** NumPy, Pandas                                                                                                                                            
 # 📊 Visualization
-Accuracy and Loss Curves
-
-
+Accuracy and Loss Curves                                                                                                                                            
+![img alt](https://github.com/G-Kamalesh/Deep_Learning_Cat_-_Dog_Image_Classifier/blob/main/accuracy_plot.png?raw=true)
+# 🔬 Results  
+Training Accuracy: 61.42%                                                                                                        
+Validation Accuracy: 64.61%                                                                                                                                               
+Test Accuracy: 70%
+# 🤝 Acknowledgments
+The TensorFlow/Keras team for their incredible framework.                                                                           
+Dataset credits (freecodecamp).                                                                                                    
+Open-source community for guidance and support.                                                                                                                           
+# Contact 
+[Linkedin](www.linkedin.com/in/g-kamaleashwar-28a2802ba)             
+[Portfolio](https://kamalesh-portfolio.streamlit.app/)
 
